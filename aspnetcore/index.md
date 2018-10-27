@@ -28,8 +28,6 @@ ASP.NET Core, modern, bulut tabanlı, İnternet bağlantılı uygulamalar oluşt
 
 Milyonlarca geliştirici, web uygulamaları oluşturmak için [ASP.NET 4.x](/aspnet/overview) kullandı (ve kullanmaya devam ediyor). ASP.NET Core, ASP.NET 4.x sürümünün daha yalın, daha modüler bir çerçeve elde edilmesini sağlayan mimari değişikliklerle yeniden tasarlanmış halidir.
 
-[!INCLUDE[](~/includes/benefits.md)]
-
 ## <a name="build-web-apis-and-web-ui-using-aspnet-core-mvc"></a>ASP.NET Core MVC kullanarak web API'leri ve web kullanıcı arabirimi oluşturma
 
 ASP.NET Core MVC, [web API’leri](xref:tutorials/index#build-web-apis) ve [web uygulamaları](xref:tutorials/index#build-web-apps) oluşturmaya yönelik özellikler sağlar:
